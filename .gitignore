@@ -1,27 +1,17 @@
-# virtual envs
-.venv/
-venv/
-jarvis_env/
-
-# build artifacts
-dist/
-build/
-dmg/
-installers/
-
-# release files
-*.zip
-*.dmg
-*.app
-
-# logs & temp
-*.log
-*.wav
-*.bak
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS
 .DS_Store
 
-# secrets
-.env
-JARVIS_MARK_I_1.0.0/
+# Local releases
 JARVIS_MARK_I_1.0.0/

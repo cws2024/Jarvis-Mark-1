@@ -4,13 +4,13 @@ on:
   push:
     tags:
       - "v*"
-  workflow_dispatch:
 
 jobs:
   build-macos:
     runs-on: macos-latest
 
-    steps:      - name: Checkout repository
+    steps:
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -18,36 +18,23 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Create virtual environment
-        run: |
-          python3 -m venv .venv
-          source .venv/bin/activate
-          pip install --upgrade pip
-
       - name: Install dependencies
         run: |
-          source .venv/bin/activate
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
           pip install pyinstaller
+          pip install -r requirements.txt
 
-      - name: Build Apple Silicon (arm64)
+      - name: Build app (ARM64)
         run: |
-          source .venv/bin/activate
-          export ARCHFLAGS="-arch arm64"
           pyinstaller JARVIS.spec
-
-      - name: Rename output
-        run: |
-          mv dist/JARVIS dist/JARVIS_arm64
 
       - name: Zip build
         run: |
           cd dist
-          zip -r JARVIS-macOS-arm64.zip JARVIS_arm64
+          zip -r JARVIS-macOS-arm64.zip JARVIS*
 
-      - name: Upload build artifact
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: JARVIS-macOS-arm64
           path: dist/JARVIS-macOS-arm64.zip
-

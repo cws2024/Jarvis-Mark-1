@@ -1,0 +1,634 @@
+2025-12-25 17:03:34,106 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-25 17:03:38,021 - jarvis - INFO - System state: speaking
+2025-12-25 17:03:38,028 - jarvis - INFO - Speaking [neutral|active]: Neural link established... All systems nominal....
+2025-12-25 17:03:38,030 - jarvis - INFO - System state: listening
+2025-12-25 17:03:45,253 - jarvis - INFO - System state: idle
+2025-12-25 17:03:45,257 - jarvis - INFO - System state: listening
+2025-12-25 17:03:52,579 - jarvis - INFO - System state: idle
+2025-12-25 17:05:20,486 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-25 17:05:25,264 - jarvis - INFO - System state: speaking
+2025-12-25 17:05:25,265 - jarvis - INFO - Speaking [neutral|active]: Neural link established... All systems nominal....
+2025-12-25 17:05:25,273 - jarvis - INFO - System state: listening
+2025-12-25 17:05:33,431 - jarvis - INFO - System state: idle
+2025-12-25 17:05:33,435 - jarvis - INFO - System state: processing
+2025-12-25 17:05:35,803 - jarvis - INFO - System state: idle
+2025-12-25 17:05:35,803 - jarvis - INFO - System state: listening
+2025-12-25 17:05:45,635 - jarvis - INFO - System state: idle
+2025-12-25 17:05:45,637 - jarvis - INFO - System state: processing
+2025-12-25 17:05:46,975 - jarvis - INFO - System state: idle
+2025-12-25 17:05:46,975 - jarvis - INFO - System state: listening
+2025-12-25 17:05:54,250 - jarvis - INFO - System state: idle
+2025-12-25 17:05:54,252 - jarvis - INFO - System state: listening
+2025-12-25 17:05:59,985 - jarvis - INFO - System state: idle
+2025-12-25 17:05:59,986 - jarvis - INFO - System state: listening
+2025-12-25 17:06:07,377 - jarvis - INFO - System state: idle
+2025-12-25 17:06:07,380 - jarvis - INFO - System state: processing
+2025-12-25 17:06:07,384 - jarvis - INFO - Cache hit!
+2025-12-25 17:06:07,386 - jarvis - INFO - System state: idle
+2025-12-25 17:06:07,387 - jarvis - INFO - System state: listening
+2025-12-25 17:06:10,695 - jarvis - INFO - System state: idle
+2025-12-25 17:06:10,697 - jarvis - INFO - System state: processing
+2025-12-25 17:06:10,698 - jarvis - INFO - Cache hit!
+2025-12-25 17:06:10,698 - jarvis - INFO - System state: idle
+2025-12-25 17:06:10,699 - jarvis - INFO - System state: listening
+2025-12-25 17:06:18,934 - jarvis - INFO - System state: idle
+2025-12-25 17:06:18,935 - jarvis - INFO - System state: listening
+2025-12-25 17:06:22,739 - jarvis - INFO - System state: idle
+2025-12-25 17:06:22,741 - jarvis - INFO - System state: listening
+2025-12-25 17:06:25,831 - jarvis - INFO - System state: idle
+2025-12-25 17:06:25,832 - jarvis - INFO - System state: processing
+2025-12-25 17:06:27,638 - jarvis - INFO - System state: idle
+2025-12-25 17:06:27,639 - jarvis - INFO - System state: listening
+2025-12-25 17:06:34,058 - jarvis - INFO - System state: idle
+2025-12-25 17:06:34,058 - jarvis - INFO - System state: processing
+2025-12-25 17:06:34,059 - jarvis - INFO - Cache hit!
+2025-12-25 17:06:34,060 - jarvis - INFO - System state: idle
+2025-12-25 17:06:34,060 - jarvis - INFO - System state: listening
+2025-12-25 17:06:41,934 - jarvis - INFO - System state: idle
+2025-12-25 17:06:41,936 - jarvis - INFO - System state: listening
+2025-12-25 17:06:47,194 - jarvis - INFO - System state: idle
+2025-12-25 17:06:47,195 - jarvis - INFO - System state: listening
+2025-12-25 17:07:02,378 - jarvis - INFO - System state: idle
+2025-12-25 17:07:02,383 - jarvis - INFO - System state: listening
+2025-12-25 17:07:18,099 - jarvis - ERROR - Listen error: recognition connection failed: [Errno 51] Network is unreachable
+2025-12-25 17:07:18,103 - jarvis - INFO - System state: idle
+2025-12-25 17:07:18,104 - jarvis - INFO - System state: listening
+2025-12-25 17:07:30,314 - jarvis - INFO - System state: idle
+2025-12-25 17:07:30,325 - jarvis - INFO - System state: listening
+2025-12-25 17:07:33,529 - jarvis - INFO - System state: idle
+2025-12-25 17:07:33,531 - jarvis - INFO - System state: listening
+2025-12-25 17:07:38,008 - jarvis - INFO - System state: idle
+2025-12-25 17:07:38,014 - jarvis - INFO - System state: listening
+2025-12-25 17:07:40,399 - jarvis - INFO - System state: idle
+2025-12-25 17:07:40,400 - jarvis - INFO - System state: listening
+2025-12-25 17:07:45,723 - jarvis - INFO - System state: idle
+2025-12-25 17:07:45,725 - jarvis - INFO - System state: listening
+2025-12-25 17:07:55,450 - jarvis - INFO - System state: idle
+2025-12-25 17:07:55,460 - jarvis - INFO - System state: listening
+2025-12-25 17:07:58,135 - jarvis - INFO - System state: idle
+2025-12-25 17:07:58,137 - jarvis - INFO - System state: listening
+2025-12-25 17:08:07,343 - jarvis - INFO - System state: idle
+2025-12-25 17:08:07,344 - jarvis - INFO - System state: listening
+2025-12-25 17:08:09,594 - jarvis - INFO - System state: idle
+2025-12-25 17:08:09,595 - jarvis - INFO - System state: listening
+2025-12-25 17:08:12,220 - jarvis - INFO - System state: idle
+2025-12-25 17:08:12,220 - jarvis - INFO - System state: listening
+2025-12-25 17:12:34,593 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-25 17:12:40,547 - jarvis - INFO - System state: speaking
+2025-12-25 17:12:40,556 - jarvis - INFO - Speaking [neutral|active]: Neural link established... All systems nominal....
+2025-12-25 17:12:40,564 - jarvis - INFO - System state: listening
+2025-12-25 17:12:45,958 - jarvis - INFO - System state: idle
+2025-12-25 17:12:45,959 - jarvis - INFO - System state: listening
+2025-12-25 17:12:55,575 - jarvis - INFO - System state: idle
+2025-12-25 17:12:55,579 - jarvis - INFO - System state: speaking
+2025-12-25 17:12:55,580 - jarvis - INFO - Speaking [neutral|active]: System error encountered during processing....
+2025-12-25 17:12:55,581 - jarvis - INFO - System state: listening
+2025-12-25 17:13:03,951 - jarvis - INFO - System state: idle
+2025-12-25 17:13:03,952 - jarvis - INFO - System state: speaking
+2025-12-25 17:13:03,952 - jarvis - INFO - Speaking [neutral|active]: System error encountered during processing....
+2025-12-25 17:13:03,953 - jarvis - INFO - System state: listening
+2025-12-25 17:13:10,776 - jarvis - INFO - System state: idle
+2025-12-25 17:13:10,777 - jarvis - INFO - System state: speaking
+2025-12-25 17:13:10,777 - jarvis - INFO - Speaking [neutral|active]: System error encountered during processing....
+2025-12-25 17:13:10,778 - jarvis - INFO - System state: listening
+2025-12-25 17:13:19,239 - jarvis - INFO - System state: idle
+2025-12-25 17:13:19,242 - jarvis - INFO - System state: listening
+2025-12-25 17:13:23,440 - jarvis - INFO - System state: idle
+2025-12-25 17:13:23,441 - jarvis - INFO - System state: listening
+2025-12-25 17:13:28,547 - jarvis - INFO - System state: idle
+2025-12-25 17:13:28,554 - jarvis - INFO - System state: listening
+2025-12-25 17:13:39,968 - jarvis - INFO - System state: idle
+2025-12-25 17:13:39,971 - jarvis - INFO - System state: listening
+2025-12-25 17:13:42,897 - jarvis - INFO - System state: idle
+2025-12-25 17:13:42,898 - jarvis - INFO - System state: listening
+2025-12-25 17:14:00,595 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-25 17:14:03,722 - jarvis - INFO - System state: speaking
+2025-12-25 17:14:03,723 - jarvis - INFO - Speaking [neutral|active]: Neural link established... All systems nominal....
+2025-12-25 17:14:03,724 - jarvis - INFO - System state: listening
+2025-12-25 17:14:17,872 - jarvis - INFO - System state: idle
+2025-12-25 17:14:17,916 - jarvis - INFO - System state: speaking
+2025-12-25 17:14:17,958 - jarvis - INFO - Speaking [neutral|active]: AI Interface mismatch detected, sir....
+2025-12-25 17:14:17,976 - jarvis - INFO - System state: listening
+2025-12-25 17:14:25,173 - jarvis - INFO - System state: idle
+2025-12-25 17:14:25,176 - jarvis - INFO - System state: speaking
+2025-12-25 17:14:25,176 - jarvis - INFO - Speaking [neutral|active]: AI Interface mismatch detected, sir....
+2025-12-25 17:14:25,180 - jarvis - INFO - System state: listening
+2025-12-25 17:14:29,389 - jarvis - INFO - System state: idle
+2025-12-25 17:14:29,389 - jarvis - INFO - System state: listening
+2025-12-25 17:14:34,089 - jarvis - INFO - System state: idle
+2025-12-25 17:14:34,093 - jarvis - INFO - System state: listening
+2025-12-25 17:14:39,820 - jarvis - INFO - System state: idle
+2025-12-25 17:14:39,827 - jarvis - INFO - System state: listening
+2025-12-25 17:14:47,668 - jarvis - INFO - System state: idle
+2025-12-25 17:14:47,669 - jarvis - INFO - System state: listening
+2025-12-25 17:14:51,406 - jarvis - INFO - System state: idle
+2025-12-25 17:14:51,412 - jarvis - INFO - System state: listening
+2025-12-25 17:14:57,071 - jarvis - INFO - System state: idle
+2025-12-25 17:14:57,071 - jarvis - INFO - System state: listening
+2025-12-25 17:15:06,179 - jarvis - INFO - System state: idle
+2025-12-25 17:15:06,183 - jarvis - INFO - System state: listening
+2025-12-25 17:15:09,539 - jarvis - INFO - System state: idle
+2025-12-25 17:15:09,539 - jarvis - INFO - System state: listening
+2025-12-25 17:15:12,184 - jarvis - INFO - System state: idle
+2025-12-25 17:15:12,185 - jarvis - INFO - System state: listening
+2025-12-25 17:15:16,158 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-25 17:15:19,248 - jarvis - INFO - System state: speaking
+2025-12-25 17:15:19,254 - jarvis - INFO - Speaking [neutral|active]: Neural link established... All systems nominal....
+2025-12-25 17:15:19,260 - jarvis - INFO - System state: listening
+2025-12-25 17:15:25,445 - jarvis - INFO - System state: idle
+2025-12-25 17:15:25,446 - jarvis - INFO - System state: listening
+2025-12-25 17:15:30,991 - jarvis - INFO - System state: idle
+2025-12-25 17:15:30,991 - jarvis - INFO - System state: processing
+2025-12-25 17:15:33,199 - jarvis - INFO - System state: idle
+2025-12-25 17:15:33,199 - jarvis - INFO - System state: speaking
+2025-12-25 17:15:33,200 - jarvis - INFO - Speaking [neutral|active]: Certainly, sir... How may I assist you today... I'...
+2025-12-25 17:15:33,202 - jarvis - INFO - System state: listening
+2025-12-25 17:15:41,523 - jarvis - INFO - System state: idle
+2025-12-25 17:15:41,528 - jarvis - INFO - System state: listening
+2025-12-25 17:15:44,135 - jarvis - INFO - System state: idle
+2025-12-25 17:15:44,136 - jarvis - INFO - System state: listening
+2025-12-25 17:15:46,584 - jarvis - INFO - System state: idle
+2025-12-25 17:15:46,585 - jarvis - INFO - System state: listening
+2025-12-25 17:15:50,975 - jarvis - INFO - System state: idle
+2025-12-25 17:15:50,977 - jarvis - INFO - System state: processing
+2025-12-25 17:15:52,590 - jarvis - INFO - System state: idle
+2025-12-25 17:15:52,591 - jarvis - INFO - System state: speaking
+2025-12-25 17:15:52,591 - jarvis - INFO - Speaking [neutral|active]: Ah, wonderful to hear from you, sir... As an AI as...
+2025-12-25 17:15:52,593 - jarvis - INFO - System state: listening
+2025-12-25 17:16:00,145 - jarvis - INFO - System state: idle
+2025-12-25 17:16:00,145 - jarvis - INFO - System state: listening
+2025-12-25 17:16:05,265 - jarvis - INFO - System state: idle
+2025-12-25 17:16:05,266 - jarvis - INFO - System state: listening
+2025-12-25 17:16:10,598 - jarvis - INFO - System state: idle
+2025-12-25 17:16:10,599 - jarvis - INFO - System state: listening
+2025-12-25 17:16:13,096 - jarvis - INFO - System state: idle
+2025-12-25 17:16:13,097 - jarvis - INFO - System state: listening
+2025-12-25 17:16:20,014 - jarvis - INFO - System state: idle
+2025-12-25 17:16:20,015 - jarvis - INFO - System state: listening
+2025-12-25 17:16:27,507 - jarvis - INFO - System state: idle
+2025-12-25 17:16:27,508 - jarvis - INFO - System state: processing
+2025-12-25 17:16:27,508 - jarvis - INFO - System state: idle
+2025-12-25 17:16:27,509 - jarvis - INFO - System state: speaking
+2025-12-25 17:16:27,511 - jarvis - INFO - Speaking [neutral|active]: The current time is 05:16 PM...
+2025-12-25 17:16:27,526 - jarvis - INFO - System state: listening
+2025-12-25 17:16:38,848 - jarvis - INFO - System state: idle
+2025-12-25 17:16:38,849 - jarvis - INFO - System state: processing
+2025-12-25 17:16:38,850 - jarvis - INFO - System state: idle
+2025-12-25 17:16:38,851 - jarvis - INFO - System state: speaking
+2025-12-25 17:16:38,862 - jarvis - INFO - Speaking [neutral|active]: The current time is 05:16 PM...
+2025-12-25 17:16:38,868 - jarvis - INFO - System state: listening
+2025-12-25 17:16:45,566 - jarvis - INFO - System state: idle
+2025-12-25 17:16:45,567 - jarvis - INFO - System state: listening
+2025-12-25 17:16:48,093 - jarvis - INFO - System state: idle
+2025-12-25 17:16:48,094 - jarvis - INFO - System state: listening
+2025-12-25 17:16:56,360 - jarvis - INFO - System state: idle
+2025-12-25 17:16:56,361 - jarvis - INFO - System state: processing
+2025-12-25 17:16:56,361 - jarvis - INFO - System state: idle
+2025-12-25 17:16:56,363 - jarvis - INFO - System state: speaking
+2025-12-25 17:16:56,363 - jarvis - INFO - Speaking [neutral|active]: I'd be happy to set a reminder for you....
+2025-12-25 17:16:56,365 - jarvis - INFO - System state: listening
+2025-12-25 17:17:01,067 - jarvis - INFO - System state: idle
+2025-12-25 17:17:01,068 - jarvis - INFO - System state: listening
+2025-12-25 17:17:06,202 - jarvis - INFO - System state: idle
+2025-12-25 17:17:06,209 - jarvis - INFO - System state: processing
+2025-12-25 17:17:06,210 - jarvis - INFO - System state: idle
+2025-12-25 17:17:06,211 - jarvis - INFO - System state: speaking
+2025-12-25 17:17:06,211 - jarvis - INFO - Speaking [neutral|active]: I'd be happy to set a reminder for you....
+2025-12-25 17:17:06,212 - jarvis - INFO - System state: listening
+2025-12-25 17:17:12,130 - jarvis - INFO - System state: idle
+2025-12-25 17:17:12,131 - jarvis - INFO - System state: listening
+2025-12-25 17:17:16,273 - jarvis - INFO - System state: idle
+2025-12-25 17:17:16,274 - jarvis - INFO - System state: listening
+2025-12-25 17:17:23,085 - jarvis - INFO - System state: idle
+2025-12-25 17:17:23,088 - jarvis - INFO - System state: processing
+2025-12-25 17:17:24,202 - jarvis - INFO - System state: idle
+2025-12-25 17:17:24,204 - jarvis - INFO - System state: speaking
+2025-12-25 17:17:24,205 - jarvis - INFO - Speaking [neutral|active]: Opening Google Chrome....
+2025-12-25 17:17:24,206 - jarvis - INFO - System state: listening
+2025-12-25 17:17:33,839 - jarvis - INFO - System state: idle
+2025-12-25 17:17:33,840 - jarvis - INFO - System state: processing
+2025-12-25 17:17:34,192 - jarvis - INFO - System state: idle
+2025-12-25 17:17:34,195 - jarvis - INFO - System state: speaking
+2025-12-25 17:17:34,197 - jarvis - INFO - Speaking [neutral|active]: Opening whatsapp....
+2025-12-25 17:17:34,203 - jarvis - INFO - System state: listening
+2025-12-25 17:17:43,034 - jarvis - INFO - System state: idle
+2025-12-25 17:17:43,041 - jarvis - INFO - System state: listening
+2025-12-25 17:17:45,261 - jarvis - INFO - System state: idle
+2025-12-25 17:17:45,262 - jarvis - INFO - System state: listening
+2025-12-25 17:17:48,001 - jarvis - INFO - System state: idle
+2025-12-25 17:17:48,003 - jarvis - INFO - System state: listening
+2025-12-25 17:17:55,027 - jarvis - INFO - System state: idle
+2025-12-25 17:17:55,031 - jarvis - INFO - System state: listening
+2025-12-25 17:18:03,746 - jarvis - INFO - System state: idle
+2025-12-25 17:18:03,749 - jarvis - INFO - System state: listening
+2025-12-25 17:22:24,326 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-25 17:24:01,687 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-25 17:24:05,661 - jarvis - INFO - System state: speaking
+2025-12-25 17:24:05,665 - jarvis - INFO - Speaking [neutral|active]: Neural link established... All systems nominal....
+2025-12-25 17:24:05,666 - jarvis - INFO - System state: listening
+2025-12-25 17:24:11,954 - jarvis - INFO - System state: idle
+2025-12-25 17:24:11,955 - jarvis - INFO - System state: listening
+2025-12-25 17:24:15,741 - jarvis - INFO - System state: idle
+2025-12-25 17:24:15,742 - jarvis - INFO - System state: listening
+2025-12-25 17:24:30,435 - jarvis - INFO - System state: idle
+2025-12-25 17:24:30,438 - jarvis - INFO - System state: listening
+2025-12-25 17:24:38,263 - jarvis - INFO - System state: idle
+2025-12-25 17:24:38,264 - jarvis - INFO - System state: listening
+2025-12-25 17:24:46,146 - jarvis - INFO - System state: idle
+2025-12-25 17:24:46,149 - jarvis - INFO - System state: listening
+2025-12-25 17:24:48,867 - jarvis - INFO - System state: idle
+2025-12-25 17:24:48,868 - jarvis - INFO - System state: listening
+2025-12-27 14:23:25,884 - jarvis_backend - INFO - Auto-save started (interval: 300s)
+2025-12-27 14:23:28,491 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:23:28,493 - jarvis_backend - INFO - Speaking [neutral|active]: JARVIS MARK I online and ready....
+2025-12-27 14:23:46,798 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:23:46,800 - jarvis_backend - INFO - Speaking [neutral|active]: I'm listening... How can I assist you?...
+2025-12-27 14:23:46,816 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:23:50,692 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:23:51,044 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:23:59,588 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:23:59,590 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:24:01,919 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:24:01,919 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:24:01,920 - jarvis_backend - INFO - Speaking [neutral|active]: Ah, wonderful to hear from you, sir... As your tru...
+2025-12-27 14:24:26,123 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:24:34,615 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:24:34,616 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:24:36,733 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:24:36,734 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:24:36,734 - jarvis_backend - INFO - Speaking [neutral|active]: An excellent question, sir... Quantum physics is a...
+2025-12-27 14:25:26,545 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:25:29,189 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:25:29,190 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:25:32,165 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:25:32,166 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:25:32,166 - jarvis_backend - INFO - Operation mode: alert
+2025-12-27 14:25:32,167 - jarvis_backend - INFO - Operation mode: alert
+2025-12-27 14:25:32,167 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:25:32,168 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:25:32,168 - jarvis_backend - INFO - Speaking [neutral|alert]: Alert mode activated... Standing by for urgent com...
+2025-12-27 14:25:35,547 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:25:38,707 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:25:38,769 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:25:45,369 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:25:45,372 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:25:45,374 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:25:45,379 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:25:45,381 - jarvis_backend - INFO - Speaking [neutral|alert]: Available modes: idle, active, alert, night....
+2025-12-27 14:25:48,802 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:25:58,376 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:25:58,833 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:26:02,440 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:26:02,441 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:26:02,441 - jarvis_backend - INFO - Speaking [neutral|alert]: Session ended... I'll be here when you need me....
+2025-12-27 14:33:08,071 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:33:08,089 - jarvis_backend - INFO - Speaking [neutral|alert]: I'm here... What do you need?...
+2025-12-27 14:33:08,116 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:33:12,177 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:33:12,180 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:33:19,316 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:33:19,318 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:33:37,836 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:33:38,156 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:33:45,726 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:33:45,728 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:33:47,979 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:33:48,187 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:33:48,187 - jarvis_backend - INFO - Speaking [neutral|alert]: How may I assist you today, sir... As your ever-re...
+2025-12-27 14:34:21,194 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:34:26,731 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:34:26,734 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:34:27,284 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:34:27,285 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:34:27,285 - jarvis_backend - INFO - Speaking [neutral|alert]: Opening Google Chrome....
+2025-12-27 14:34:28,911 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:34:32,661 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:34:32,662 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:34:34,846 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:34:34,846 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:34:34,847 - jarvis_backend - INFO - Speaking [neutral|alert]: Excellent, sir... I'd be more than happy to assist...
+2025-12-27 14:35:09,633 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:13,479 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:13,484 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:35:15,845 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:15,915 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:35:15,916 - jarvis_backend - INFO - Speaking [neutral|alert]: Ah, an intriguing request, sir... As your knowledg...
+2025-12-27 14:35:47,007 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,015 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,015 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,017 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,017 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,017 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,017 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,017 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,018 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,018 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,018 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,018 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,019 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,021 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,021 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,021 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,021 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,022 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,022 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,022 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,022 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,022 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,023 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,023 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,023 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,023 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,023 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,023 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,023 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,023 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,023 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,023 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,023 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,024 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,024 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,024 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,024 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,024 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,025 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,025 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,025 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,025 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,025 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,025 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,025 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,025 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,026 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,026 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,026 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,026 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,026 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,026 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,027 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,028 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,028 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,028 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,028 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,029 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,029 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,029 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,029 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,029 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,029 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,029 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,029 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,029 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,029 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,030 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,030 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,030 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,030 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,031 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,032 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,032 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,032 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,032 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,032 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,032 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,032 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,032 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,033 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,033 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,033 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,033 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,033 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,033 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,033 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,033 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,033 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,034 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,034 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,036 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,037 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,037 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,037 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,038 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,038 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,038 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,038 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,038 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,039 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,039 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,039 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,040 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,040 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,040 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,040 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,041 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,041 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,042 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,042 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,042 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,042 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,043 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,043 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,043 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,043 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,043 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,043 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,043 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,043 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,044 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,044 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,044 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,044 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,044 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,044 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,044 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:35:47,044 - jarvis_backend - ERROR - Listen error: [Errno 5] Input/output error
+2025-12-27 14:35:47,044 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:35:47,044 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:51:23,011 - jarvis_backend - INFO - Data loaded successfully
+2025-12-27 14:51:23,017 - jarvis_backend - INFO - Auto-save started (interval: 300s)
+2025-12-27 14:51:25,458 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:51:25,459 - jarvis_backend - INFO - Speaking [neutral|active]: JARVIS MARK I initialized successfully....
+2025-12-27 14:51:45,621 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:51:45,622 - jarvis_backend - INFO - Speaking [neutral|active]: I'm here... What do you need?...
+2025-12-27 14:51:45,635 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:51:49,351 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:51:49,351 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:51:57,578 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:51:58,048 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:52:04,873 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:52:04,876 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:52:05,584 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:52:05,586 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:52:05,588 - jarvis_backend - INFO - Speaking [neutral|active]: Opening Google Chrome....
+2025-12-27 14:52:07,447 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:52:16,952 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:52:16,953 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:52:18,964 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:52:18,965 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:52:18,965 - jarvis_backend - INFO - Speaking [neutral|active]: Certainly, sir... Scrolling is the act of moving c...
+2025-12-27 14:52:50,063 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:52:54,736 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:52:54,738 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:53:05,130 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:53:05,133 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:53:08,061 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:53:08,238 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:53:15,834 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:53:15,915 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:53:34,851 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:53:34,858 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:53:36,798 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:53:36,799 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:53:36,813 - jarvis_backend - INFO - Speaking [neutral|active]: Ah, I see you're inquiring about "han ji", sir... ...
+2025-12-27 14:54:02,038 - jarvis_backend - INFO - Data loaded successfully
+2025-12-27 14:54:02,039 - jarvis_backend - INFO - Auto-save started (interval: 300s)
+2025-12-27 14:54:04,029 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:54:04,030 - jarvis_backend - INFO - Speaking [neutral|active]: JARVIS MARK I initialized successfully....
+2025-12-27 14:54:33,556 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:54:33,559 - jarvis_backend - INFO - Speaking [neutral|active]: I'm here... What do you need?...
+2025-12-27 14:54:33,574 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:54:37,094 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:54:37,095 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:54:42,581 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:54:42,582 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:54:44,567 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:54:44,569 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:54:44,569 - jarvis_backend - INFO - Speaking [neutral|active]: Certainly, sir... Addition is a basic mathematical...
+2025-12-27 14:55:09,791 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:55:18,591 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:55:18,591 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:55:25,850 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:55:25,853 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:55:28,424 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:55:28,425 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:55:30,218 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:55:30,218 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:55:30,218 - jarvis_backend - INFO - Speaking [neutral|active]: Ah, an excellent question, sir... A jar is a type ...
+2025-12-27 14:56:02,644 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:56:11,462 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:56:11,859 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:56:18,303 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:56:18,304 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:56:26,607 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:56:26,901 - jarvis_backend - INFO - System state: listening
+2025-12-27 14:56:29,782 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:56:29,783 - jarvis_backend - INFO - System state: processing
+2025-12-27 14:56:31,799 - jarvis_backend - INFO - System state: idle
+2025-12-27 14:56:31,911 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:56:31,911 - jarvis_backend - INFO - Speaking [neutral|active]: Wonderful, sir... A prime number is a positive int...
+2025-12-27 14:56:40,482 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:56:40,483 - jarvis_backend - INFO - Speaking [neutral|active]: Going offline... Goodbye....
+2025-12-27 14:56:40,629 - jarvis_backend - INFO - System state: speaking
+2025-12-27 14:56:40,630 - jarvis_backend - INFO - Speaking [neutral|active]: Powering down... Until next time....
+2025-12-27 22:50:57,917 - jarvis - INFO - Data loaded successfully
+2025-12-27 22:50:57,934 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-27 22:51:01,447 - jarvis - INFO - System state: speaking
+2025-12-27 22:51:01,448 - jarvis - INFO - Speaking [neutral|active]: JARVIS MARK I online and ready....
+2025-12-27 22:51:19,314 - jarvis - INFO - System state: speaking
+2025-12-27 22:51:19,318 - jarvis - INFO - Speaking [neutral|active]: I'm here... What do you need?...
+2025-12-27 22:51:19,331 - jarvis - INFO - System state: listening
+2025-12-27 22:51:23,331 - jarvis - INFO - System state: idle
+2025-12-27 22:51:23,346 - jarvis - INFO - System state: listening
+2025-12-27 22:51:28,767 - jarvis - INFO - System state: idle
+2025-12-27 22:51:28,781 - jarvis - INFO - System state: listening
+2025-12-27 22:51:34,777 - jarvis - INFO - System state: idle
+2025-12-27 22:51:34,779 - jarvis - INFO - System state: listening
+2025-12-27 22:51:40,160 - jarvis - INFO - System state: idle
+2025-12-27 22:51:40,165 - jarvis - INFO - System state: listening
+2025-12-27 22:51:43,620 - jarvis - INFO - System state: idle
+2025-12-27 22:51:43,622 - jarvis - INFO - System state: listening
+2025-12-27 22:51:50,071 - jarvis - INFO - System state: idle
+2025-12-27 22:51:50,072 - jarvis - INFO - System state: listening
+2025-12-27 22:51:53,186 - jarvis - INFO - System state: idle
+2025-12-27 22:51:53,188 - jarvis - INFO - System state: listening
+2025-12-27 22:51:57,698 - jarvis - INFO - System state: idle
+2025-12-27 22:51:57,706 - jarvis - INFO - System state: listening
+2025-12-27 22:52:00,282 - jarvis - INFO - System state: idle
+2025-12-27 22:52:00,284 - jarvis - INFO - System state: listening
+2025-12-27 22:52:07,893 - jarvis - INFO - System state: idle
+2025-12-27 22:52:07,906 - jarvis - INFO - System state: listening
+2025-12-27 22:53:36,529 - jarvis - INFO - Data loaded successfully
+2025-12-27 22:53:36,543 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-27 22:53:38,097 - jarvis - INFO - System state: speaking
+2025-12-27 22:53:38,097 - jarvis - INFO - Speaking [neutral|active]: JARVIS MARK I initialized successfully....
+2025-12-27 22:55:05,552 - jarvis - INFO - Data loaded successfully
+2025-12-27 22:55:05,560 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-27 22:55:06,445 - jarvis - INFO - System state: speaking
+2025-12-27 22:55:06,447 - jarvis - INFO - Speaking [neutral|active]: JARVIS MARK I online and ready....
+2025-12-27 22:55:21,941 - jarvis - INFO - System state: speaking
+2025-12-27 22:55:21,948 - jarvis - INFO - Speaking [neutral|active]: I'm here... What do you need?...
+2025-12-27 22:55:21,949 - jarvis - INFO - System state: listening
+2025-12-27 22:55:25,470 - jarvis - INFO - System state: idle
+2025-12-27 22:55:25,515 - jarvis - INFO - System state: listening
+2025-12-27 22:55:35,564 - jarvis - INFO - System state: idle
+2025-12-27 22:55:35,570 - jarvis - INFO - System state: processing
+2025-12-27 22:55:35,571 - jarvis - INFO - Operation mode: alert
+2025-12-27 22:55:35,571 - jarvis - INFO - Operation mode: alert
+2025-12-27 22:55:35,572 - jarvis - INFO - System state: idle
+2025-12-27 22:55:35,585 - jarvis - INFO - System state: speaking
+2025-12-27 22:55:35,585 - jarvis - INFO - Speaking [neutral|alert]: Alert mode activated... Standing by for urgent com...
+2025-12-27 22:55:39,063 - jarvis - INFO - System state: listening
+2025-12-27 22:58:40,135 - jarvis - INFO - Data loaded successfully
+2025-12-27 22:58:40,139 - jarvis - INFO - Auto-save started (interval: 300s)
+2025-12-27 22:58:41,828 - jarvis - INFO - System state: speaking
+2025-12-27 22:58:41,829 - jarvis - INFO - Speaking [neutral|active]: Good to see you... JARVIS MARK I at your service....
+2025-12-27 22:58:54,004 - jarvis - INFO - System state: speaking
+2025-12-27 22:58:54,007 - jarvis - INFO - Speaking [neutral|active]: I'm here... What do you need?...
+2025-12-27 22:58:54,008 - jarvis - INFO - System state: listening
+2025-12-27 22:59:00,144 - jarvis - INFO - System state: idle
+2025-12-27 22:59:00,145 - jarvis - INFO - System state: listening
+2025-12-27 22:59:10,090 - jarvis - INFO - System state: idle
+2025-12-27 22:59:10,091 - jarvis - INFO - System state: processing
+2025-12-27 22:59:12,505 - jarvis - INFO - System state: idle
+2025-12-27 22:59:12,506 - jarvis - INFO - System state: speaking
+2025-12-27 22:59:12,506 - jarvis - INFO - Speaking [neutral|active]: Certainly, sir... As your personal AI assistant, I...
+2025-12-27 22:59:44,318 - jarvis - INFO - System state: listening
+2025-12-27 22:59:50,981 - jarvis - INFO - System state: idle
+2025-12-27 22:59:50,982 - jarvis - INFO - System state: processing
+2025-12-27 22:59:51,095 - jarvis - INFO - System state: idle
+2025-12-27 22:59:51,100 - jarvis - INFO - System state: speaking
+2025-12-27 22:59:51,100 - jarvis - INFO - Speaking [neutral|active]: Couldn't find whatsapp and call paaa....
+2025-12-27 22:59:53,602 - jarvis - INFO - System state: listening
+2025-12-27 22:59:58,007 - jarvis - INFO - System state: idle
+2025-12-27 22:59:58,011 - jarvis - INFO - System state: processing
+2025-12-27 22:59:58,476 - jarvis - INFO - System state: idle
+2025-12-27 22:59:58,476 - jarvis - INFO - System state: speaking
+2025-12-27 22:59:58,477 - jarvis - INFO - Speaking [neutral|active]: Couldn't find whatsapp....
+2025-12-27 23:00:00,162 - jarvis - INFO - System state: listening
+2025-12-27 23:00:05,887 - jarvis - INFO - System state: idle
+2025-12-27 23:00:05,889 - jarvis - INFO - System state: listening
+2025-12-27 23:00:16,667 - jarvis - INFO - System state: idle
+2025-12-27 23:00:16,673 - jarvis - INFO - System state: processing
+2025-12-27 23:00:17,514 - jarvis - INFO - System state: idle
+2025-12-27 23:00:17,514 - jarvis - INFO - System state: speaking
+2025-12-27 23:00:17,515 - jarvis - INFO - Speaking [neutral|active]: Opening Google Chrome....
+2025-12-27 23:00:19,298 - jarvis - INFO - System state: listening
+2025-12-27 23:00:27,803 - jarvis - INFO - System state: idle
+2025-12-27 23:00:27,807 - jarvis - INFO - System state: processing
+2025-12-27 23:00:28,031 - jarvis - INFO - System state: idle
+2025-12-27 23:00:28,032 - jarvis - INFO - System state: speaking
+2025-12-27 23:00:28,033 - jarvis - INFO - Speaking [neutral|active]: Opening whatsapp....
+2025-12-27 23:00:29,363 - jarvis - INFO - System state: listening
+2025-12-27 23:00:32,820 - jarvis - INFO - System state: idle
+2025-12-27 23:00:32,820 - jarvis - INFO - System state: listening
+2025-12-27 23:00:42,716 - jarvis - INFO - System state: idle
+2025-12-27 23:00:42,719 - jarvis - INFO - System state: listening
+2025-12-27 23:00:48,102 - jarvis - INFO - System state: idle
+2025-12-27 23:00:48,102 - jarvis - INFO - System state: listening
+2025-12-27 23:00:51,560 - jarvis - INFO - System state: idle
+2025-12-27 23:00:51,563 - jarvis - INFO - System state: speaking
+2025-12-27 23:00:51,563 - jarvis - INFO - Speaking [neutral|active]: Session ended... I'll be here when you need me....
