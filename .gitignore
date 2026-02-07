@@ -1,0 +1,25 @@
+# virtual envs
+.venv/
+venv/
+jarvis_env/
+
+# build artifacts
+dist/
+build/
+dmg/
+installers/
+
+# release files
+*.zip
+*.dmg
+*.app
+
+# logs & temp
+*.log
+*.wav
+*.bak
+__pycache__/
+.DS_Store
+
+# secrets
+.env
