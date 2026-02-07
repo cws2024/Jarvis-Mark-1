@@ -1,0 +1,54 @@
+name: Build macOS App (Apple Silicon)
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+jobs:
+  build-macos:
+    runs-on: macos-12
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Create virtual environment
+        run: |
+          python3 -m venv .venv
+          source .venv/bin/activate
+          pip install --upgrade pip
+
+      - name: Install dependencies
+        run: |
+          source .venv/bin/activate
+          pip install -r requirements.txt
+          pip install pyinstaller
+
+      - name: Build Apple Silicon (arm64)
+        run: |
+          source .venv/bin/activate
+          export ARCHFLAGS="-arch arm64"
+          pyinstaller JARVIS.spec
+
+      - name: Rename output
+        run: |
+          mv dist/JARVIS dist/JARVIS_arm64
+
+      - name: Zip build
+        run: |
+          cd dist
+          zip -r JARVIS-macOS-arm64.zip JARVIS_arm64
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: JARVIS-macOS-arm64
+          path: dist/JARVIS-macOS-arm64.zip
+
