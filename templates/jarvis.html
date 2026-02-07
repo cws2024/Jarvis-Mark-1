@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JARVIS MARK I</title>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { margin: 0; padding: 0; overflow: hidden; font-family: 'Inter', sans-serif; }
+        * { box-sizing: border-box; }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel">
+        // Paste the entire React component code here
+        // (The JarvisMarkI component from the artifact)
+        
+        const { useState, useEffect } = React;
+        const { Mic, MicOff, Cpu, HardDrive, Wifi, Battery, BatteryCharging, Activity, 
+                Command, Terminal, Clock, Calendar, Zap, Brain, Radio, Eye, Heart } = lucide;
+        
+        // API helper functions
+        const api = {
+            command: async (cmd) => {
+                const res = await fetch('/api/command', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ command: cmd })
+                });
+                return res.json();
+            },
+            
+            stats: async () => {
+                const res = await fetch('/api/stats');
+                return res.json();
+            },
+            
+            setMode: async (mode) => {
+                const res = await fetch('/api/mode', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ mode })
+                });
+                return res.json();
+            },
+            
+            listen: async () => {
+                const res = await fetch('/api/listen', { method: 'POST' });
+                return res.json();
+            }
+        };
+        
+        // Main component with API integration
+        const JarvisMarkI = () => {
+            // ... (paste the full React component code here)
+            // Modify handleSubmitCommand to use api.command()
+            // Modify stats fetching to use api.stats()
+            
+            return (
+                // ... JSX code
+            );
+        };
+        
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<JarvisMarkI />);
+    </script>
+</body>
+</html>
