@@ -63,3 +63,11 @@ Thumbs.db
 *.log
 *.db
 *.sqlite3
+
+# ===== BUILD / RELEASE ARTIFACTS =====
+dist/
+build/
+*.zip
+*.dmg
+*.app
+JARVIS*
